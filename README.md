@@ -8,20 +8,18 @@
 - <b>PowerShell</b>
   - [JWipe (Disk Wiping Utility)]
   - [FIM (File Integrity Monitor)]
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)]
   
 <h2>:page_facing_up: certifications</h2>
--<b>AXELOS ITIL</b>
--CompTIA A+
--CompTIA project+
--CompTIA CySa+
--ISC2 CCSP
--ISC2 SSCP
--CompTIA Pentest+
--CompTIA Network+
--CompTIA Security+
--Python
+ &#x2022;AXELOS ITIL<br>
+ &#x2022;CompTIA A+<br>
+ &#x2022;CompTIA project+<br>
+ &#x2022;CompTIA CySa+<br>
+ &#x2022;ISC2 CCSP<br>
+ &#x2022;ISC2 SSCP<br>
+ &#x2022;CompTIA Pentest+<br>
+ &#x2022;CompTIA Network+<br>
+ &#x2022;CompTIA Security+<br>
+ &#x2022;Python<br>
 
 <h2>📺 Popular YouTube Videos</h2>
 -currently working on :hammer:
